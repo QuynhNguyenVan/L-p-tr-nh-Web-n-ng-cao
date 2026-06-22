@@ -1,0 +1,14 @@
+{
+  "name": "patient-learning",
+  "version": "1.0.0",
+  "description": "Patient learning application",
+  "main": "note.js",
+  "scripts": {
+    "start": "node note.js",
+    "dev": "node note.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
